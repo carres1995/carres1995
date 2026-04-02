@@ -35,9 +35,7 @@
 ## GitHub Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carres1995&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carres1995&layout=compact&theme=react&hide=html,css" alt="Top Languages" />
-</p>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carres1995&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
 
 ---
 
