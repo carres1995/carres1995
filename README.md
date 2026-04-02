@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  A dedicated Full Stack Developer with experience building scalable web applications. I specialize in backend technologies using <b>Java (Spring Boot)</b> and <b>Python (FastAPI)</b>, complemented by modern frontend frameworks like <b>Angular</b>. Skilled in cloud infrastructure (AWS) and both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases.
+  A dedicated Full Stack Developer with experience building scalable web applications. I specialize in backend technologies using <b>Java (Spring Boot)</b>, <b>JavaScript (Node JS)</b> and <b>Python (FastAPI)</b>, complemented by modern frontend frameworks like <b>Angular</b>. Skilled in cloud infrastructure (AWS) and both SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) databases.
 </p>
 
 ---
