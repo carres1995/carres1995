@@ -79,18 +79,37 @@
 
 ### &nbsp; Featured Projects
 
-<p>
-  <!-- Replace REPO_NAME with your actual repository names -->
-  <a href="https://github.com/Centinela-App/Centinela">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&repo=Centinela-Sistema-deteccion-bancaria&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
-  </a>
-  <a href="https://github.com/The-Galactics/Atom-app">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&Aplicativo-mobile-accionar aplicaciones-mobiles-por-voz&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
-  </a>
-  <a href="https://github.com/P-MatchIQ/MatchIQ-Backend">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&Aplicativo-gestion-ofertas-laborales&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/P-MatchIQ/MatchIQ-Backend">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=P-MatchIQ&repo=MatchIQ-Backend&theme=graywhite&hide_border=true&bg_color=00000000&icon_color=6DB33F&title_color=6DB33F&text_color=767676" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <!-- Tarjeta manual: Centinela es privado, el pin automático no funciona.
+           Si algún día lo haces público, puedes volver a usar el pin como los demás. -->
+      <a href="https://github.com/Centinela-App/Centinela">
+        <img src="https://img.shields.io/badge/%F0%9F%94%92_Centinela-2E2E2E?style=for-the-badge&labelColor=2E2E2E&color=6DB33F" /><br />
+        <sub>Aplicación de monitoreo y alertas &nbsp;·&nbsp; repo privado</sub><br />
+        <img src="https://img.shields.io/badge/-Node.js-2E2E2E?style=flat&logo=nodedotjs&logoColor=339933" />
+        <img src="https://img.shields.io/badge/-MongoDB-2E2E2E?style=flat&logo=mongodb&logoColor=47A248" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Jghenaov/Integrados_maquinaria">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jghenaov&repo=Integrados_maquinaria&theme=graywhite&hide_border=true&bg_color=00000000&icon_color=6DB33F&title_color=6DB33F&text_color=767676" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/The-Galactics/Atom-app">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=The-Galactics&repo=Atom-app&theme=graywhite&hide_border=true&bg_color=00000000&icon_color=6DB33F&title_color=6DB33F&text_color=767676" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
