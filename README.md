@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=Carlos+Andr%C3%A9s+Restrepo+Yepes;Full+Stack+Developer;Java+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Angular" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=6DB33F&center=true&vCenter=true&width=520&lines=Carlos+Andr%C3%A9s+Restrepo+Yepes;Full+Stack+Developer;Java+%C2%B7+Python+%C2%B7+Angular" alt="Typing SVG" />
 
 <p>
   <em>Building scalable web applications with clean architecture.</em>
@@ -24,7 +24,7 @@
 
 ### &nbsp; About
 
-> Full Stack Developer focused on backend systems with **Java (Spring Boot)**, **Node.js** and **Python (FastAPI)**, paired with **Angular** on the frontend. Comfortable across **AWS** cloud infrastructure and both **SQL** and **NoSQL** databases.
+> Full Stack Developer focused on backend systems with **Java (Spring Boot)**, **Node.js** and **Python (FastAPI)**, paired with **Angular** on the frontend. Comfortable across **Azure** cloud infrastructure and both **SQL** and **NoSQL** databases.
 
 <br />
 
@@ -66,7 +66,7 @@
   <tr>
     <td><strong>Cloud</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-2E2E2E?style=flat&logo=amazonaws&logoColor=FF9900" />
+      <img src="https://img.shields.io/badge/Azure-2E2E2E?style=flat&logo=amazonaws&logoColor=FF9900" />
     </td>
   </tr>
 </table>
