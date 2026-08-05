@@ -78,39 +78,55 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ### &nbsp; Featured Projects
-
+ 
+<!-- Tarjetas manuales uniformes. Edita la descripción (<sub>) y los badges de tecnología de cada una. -->
 <table>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/P-MatchIQ/MatchIQ-Backend">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=P-MatchIQ&repo=MatchIQ-Backend&theme=graywhite&hide_border=true&bg_color=00000000&icon_color=6DB33F&title_color=6DB33F&text_color=767676" />
+        <img src="https://img.shields.io/badge/MatchIQ--Backend-2E2E2E?style=for-the-badge&labelColor=2E2E2E&color=6DB33F" />
       </a>
+      <br />
+      <sub>API backend del sistema MatchIQ</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/-Java-2E2E2E?style=flat&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/-Spring_Boot-2E2E2E?style=flat&logo=springboot&logoColor=6DB33F" />
+      <img src="https://img.shields.io/badge/-PostgreSQL-2E2E2E?style=flat&logo=postgresql&logoColor=4169E1" />
     </td>
-    <td width="50%" align="center">
-      <!-- Tarjeta manual: Centinela es privado, el pin automático no funciona.
-           Si algún día lo haces público, puedes volver a usar el pin como los demás. -->
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Centinela-App/Centinela">
-        <img src="https://img.shields.io/badge/%F0%9F%94%92_Centinela-2E2E2E?style=for-the-badge&labelColor=2E2E2E&color=6DB33F" /><br />
-        <sub>Aplicación de monitoreo y alertas &nbsp;·&nbsp; repo privado</sub><br />
-        <img src="https://img.shields.io/badge/-Node.js-2E2E2E?style=flat&logo=nodedotjs&logoColor=339933" />
-        <img src="https://img.shields.io/badge/-MongoDB-2E2E2E?style=flat&logo=mongodb&logoColor=47A248" />
+        <img src="https://img.shields.io/badge/Centinela-2E2E2E?style=for-the-badge&labelColor=2E2E2E&color=6DB33F" />
       </a>
+      <br />
+      <sub>Aplicación de monitoreo y alertas</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/-Node.js-2E2E2E?style=flat&logo=nodedotjs&logoColor=339933" />
+      <img src="https://img.shields.io/badge/-MongoDB-2E2E2E?style=flat&logo=mongodb&logoColor=47A248" />
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/Jghenaov/Integrados_maquinaria">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Jghenaov&repo=Integrados_maquinaria&theme=graywhite&hide_border=true&bg_color=00000000&icon_color=6DB33F&title_color=6DB33F&text_color=767676" />
+        <img src="https://img.shields.io/badge/Integrados__maquinaria-2E2E2E?style=for-the-badge&labelColor=2E2E2E&color=6DB33F" />
       </a>
+      <br />
+      <sub>Sistema de gestión de maquinaria</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/-Python-2E2E2E?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/-FastAPI-2E2E2E?style=flat&logo=fastapi&logoColor=009688" />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" valign="top" align="center">
       <a href="https://github.com/The-Galactics/Atom-app">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=The-Galactics&repo=Atom-app&theme=graywhite&hide_border=true&bg_color=00000000&icon_color=6DB33F&title_color=6DB33F&text_color=767676" />
+        <img src="https://img.shields.io/badge/Atom--app-2E2E2E?style=for-the-badge&labelColor=2E2E2E&color=6DB33F" />
       </a>
+      <br />
+      <sub>Aplicación web del proyecto Atom</sub>
+      <br /><br />
+      <img src="https://img.shields.io/badge/-Angular-2E2E2E?style=flat&logo=angular&logoColor=DD0031" />
+      <img src="https://img.shields.io/badge/-TypeScript-2E2E2E?style=flat&logo=typescript&logoColor=3178C6" />
     </td>
   </tr>
 </table>
-
 <br />
 
 <!-- ═══════════════════════════════════════════════════════════ -->
