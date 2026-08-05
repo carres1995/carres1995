@@ -81,11 +81,14 @@
 
 <p>
   <!-- Replace REPO_NAME with your actual repository names -->
-  <a href="https://github.com/carres1995/REPO_NAME_1">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&repo=REPO_NAME_1&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
+  <a href="https://github.com/Centinela-App/Centinela">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&repo=Centinela-Sistema-deteccion-bancaria&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
   </a>
-  <a href="https://github.com/carres1995/REPO_NAME_2">
-    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&repo=REPO_NAME_2&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
+  <a href="https://github.com/The-Galactics/Atom-app">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&Aplicativo-mobile-accionar aplicaciones-mobiles-por-voz&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
+  </a>
+  <a href="https://github.com/P-MatchIQ/MatchIQ-Backend">
+    <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=carres1995&Aplicativo-gestion-ofertas-laborales&theme=graywhite&hide_border=true&bg_color=4169E1&icon_color=6DB33F&title_color=6DB33F" />
   </a>
 </p>
 
